@@ -1,2 +1,2 @@
 # rusty_snake
-Snake game written in Rust
+CLI snake game written in Rust. 
